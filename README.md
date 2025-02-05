@@ -4,7 +4,7 @@
 
 
 <img align="right" width=300px height=250px alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
 
 I am a software engineering student, currently in my sixth semester. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative, and creative. 🎓 I am a passionate student who is always willing to learn and work with different technologies. I enjoy exploring new technologies and trying to solve real-life problems. 🚀 Aside from that, I also love listening to music 🎵 and working out.
 
