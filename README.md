@@ -81,4 +81,4 @@ I am a software engineering student, currently in my sixth semester. I am expand
   </a>
 </p>
 
-Credits: [Yogesh](https://github.com/MAGA1314)
+Credits: [MAGA1314](https://github.com/MAGA1314)
